@@ -1,0 +1,473 @@
+@media (max-width: 1380px){
+    .ui_designer{
+        margin-left: 80px;
+    }
+    .about_me h2{
+        margin-left: 80px;
+    }
+    .about_me p{
+        margin-left: 80px;
+    }
+    .contact_left{
+        margin-left: 80px;
+        width: 520px;
+    }
+    .contact_right{
+        margin-right: 3%;
+    }
+}
+@media (max-width: 1280px){
+    .home_page{
+        height: 820px;
+    }
+    .ui_designer{
+        margin-left: 30px;
+        margin-top: 100px;
+    }
+    .ui_designer p{
+        font-size: 70px;
+    }
+    #designer_img{
+        margin-right: 3%;
+        margin-top: 40px;
+    }
+    .about_me{
+        height: 740px;
+    }
+    .about_me h2{
+        margin-left: 30px;
+        margin-top: 100px;
+        font-size: 52px;
+    }
+    .about_me p{
+        margin-left: 30px;
+    }
+    .about_me img{
+        margin-right: 3%;
+        margin-top: 90px;
+        width: 600px;
+    }
+    .projects_page{
+        padding: 100px 0;
+        height: 670px;
+    }
+    .project_inside {
+        max-width: 1300px;
+        padding: 0 30px;
+    }
+    .project_img img{
+        width: 330px;
+    }
+    .contact_page{
+        height: 720px;
+    }
+    .contact_left{
+        margin-left: 30px;
+        margin-top: 100px;
+        width: 450px;
+    }
+    .contact_left h2{
+        font-size: 52px;
+        line-height: 70px;
+    }
+    .contact_left img{
+        margin-left: 100px;
+    }
+    .contact_right{
+        width: 520px;
+        margin-top: 100px;
+    }
+    .contact_right form input{
+        width: 240px;
+        height: 55px;
+    }
+    .contact_right form p span{
+        margin-left: 160px;
+    }
+    .contact_right form textarea{
+        width: 505px;
+    }
+}
+@media (max-width: 1060px){
+    .home_page{
+        height: 670px;
+    }
+    .ui_designer{
+        margin-left: 30px;
+        margin-top: 60px;
+    }
+    .ui_designer p{
+        font-size: 50px;
+    }
+    #hire_me{
+        margin-top: 30px;
+        width: 115px;
+        height: 43px;
+        margin-right: 15px;
+    }
+    #download{
+        width: 200px;
+        height: 43px;
+    }
+    #designer_img{
+        margin-right: 3%;
+        margin-top: 20px;
+        width: 440px;
+    }
+    .about_me{
+        height: 540px;
+    }
+    .about_me h2{
+        margin-left: 30px;
+        margin-top: 62px;
+        font-size: 45px;
+    }
+    .about_me p{
+        margin-left: 30px;
+        width: 320px;
+    }
+    .about_me img{
+        margin-right: 3%;
+        margin-top: 60px;
+        width: 440px;
+    }
+    .projects_page{
+        padding: 60px 0;
+        height: 520px;
+    }
+    .project_inside {
+        max-width: 1060px;
+        padding: 0 20px 0 30px;
+    }
+    .project_inside h2{
+        font-size: 45px;
+    }
+    .project_img img{
+        width: 260px;
+    }
+    .contact_page{
+        height: 680px;
+    }
+    .contact_left{
+        margin-left: 30px;
+        margin-top: 60px;
+        width: 345px;
+    }
+    .contact_left h2{
+        font-size: 45px;
+        line-height: 57px;
+    }
+    .contact_left img{
+        margin-left: 40px;
+        width: 250px;
+    }
+    .contact_right{
+        width: 420px;
+        margin-top: 60px;
+    }
+    .contact_right form input{
+        width: 280px;
+        height: 50px;
+        font-weight: 500;
+    }
+    .contact_right form p{
+        font-weight: 500;
+    }
+    .contact_right form p span{
+        display: none;
+    }
+    .contact_right form textarea{
+        width: 360px;
+        height: 230px;
+        font-weight: 500;
+    }
+    .footer_page{
+        height: 190px;
+        padding-top: 32px;
+    }
+}
+@media(max-width: 840px){
+    .navigation{
+        padding: 0 20px;
+        height: 70px;
+    }
+    .menu_item a{
+        margin-left: 30px;
+    }
+    .home_page{
+        height: 730px;
+    }
+    .ui_designer{
+        margin-left: 20px;
+        margin-top: 30px;
+        margin-right: 60px;
+    }
+    .ui_designer p{
+        font-size: 45px;
+        float: none;
+    }
+    #hire_me{
+        margin-top: 20px;
+        width: 115px;
+        height: 43px;
+        margin-right: 15px;
+    }
+    #download{
+        width: 200px;
+        height: 43px;
+    }
+    #designer_img{
+        display: block;
+        margin-right: auto;
+        margin-top: 20px;
+        width: 440px;
+        margin-left: auto;
+        float: none;
+    }
+    .about_me{
+        height: 610px;
+    }
+    .about_me h2{
+        margin-left: 20px;
+        margin-top: 30px;
+        font-size: 38px;
+    }
+    .about_me p{
+        margin-left: 20px;
+        width: 450px;
+        margin-bottom: 15px;
+    }
+    .about_me img{
+        width: 430px;
+        float: none;
+        display: block;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .projects_page{
+        padding: 30px 0;
+        height: 520px;
+    }
+    .project_inside {
+        max-width: 1060px;
+        padding: 0 10px 0 20px;
+    }
+    .project_inside h2{
+        font-size: 38px;
+    }
+    .project_inside button:nth-of-type(4){
+        width: 170px;
+        margin: 15px 0px 10px 0;
+    }
+    .project_img{
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .project_img img{
+        width: 200px;
+        margin: 2px 5px;
+    }
+    .contact_page{
+        height: 1100px;
+        padding-top: 20px;
+    }
+    .contact_left{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+        width: 345px;
+        float: none;
+    }
+    .contact_left h2{
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .contact_left img{
+        margin-left: 40px;
+        width: 250px;
+    }
+    .contact_right{
+        width: 420px;
+        margin-top: 60px;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .contact_right form input{
+        width: 280px;
+        height: 50px;
+        font-weight: 500;
+    }
+    .contact_right form p{
+        font-weight: 500;
+    }
+    .contact_right form p span{
+        display: none;
+    }
+    .contact_right form textarea{
+        width: 360px;
+        height: 230px;
+        font-weight: 500;
+    }
+    .footer_page{
+        height: 190px;
+        padding-top: 32px;
+    }
+}
+@media(max-width: 510px){
+    .navigation{
+        padding: 0 10px;
+        height: 60px;
+    }
+    #saul_design{
+        margin: auto;
+    }
+    #menu_list{
+        display: none;
+    }
+    .home_page{
+        height: 660px;
+    }
+    .ui_designer{
+        margin-left: 10px;
+        margin-top: 20px;
+        margin-right: 0;
+    }
+    .ui_designer p{
+        font-size: 40px;
+        float: none;
+    }
+    #hire_me{   
+        width: 100px;
+        height: 40px;
+    }
+    #download{
+        width: 190px;
+        height: 40px;
+    }
+    #designer_img{
+        width: 355px;
+    }
+    .about_me{
+        height: 560px;
+    }
+    .about_me h2{
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 35px;
+    }
+    .about_me p{
+        margin-left: 10px;
+        width: 320px;
+        margin-bottom: 15px;
+    }
+    .about_me img{
+        width: 320px;
+    }
+    .projects_page{
+        padding: 20px 0;
+        height: 520px;
+    }
+    .project_inside {
+        max-width: 1060px;
+        padding: 0 10px 0 10px;
+    }
+    .project_inside h2{
+        font-size: 35px;
+    }
+    .project_inside button:nth-of-type(1){
+        margin: 15px 20px 10px 0;
+    }
+    .project_inside button:nth-of-type(2),
+    button:nth-of-type(3){
+        margin: 15px 20px 10px 0;
+}
+    .project_inside button:nth-of-type(4){
+        width: 170px;
+        margin: 15px 0px 10px 0;
+    }
+    .project_img{
+        margin-top: 20px;
+    }
+    .project_img img{
+        width: 170px;
+        margin: 2px 5px;
+    }
+    .contact_page{
+        height: 1110px;
+    }
+    .contact_left{
+        max-width: 340px;
+    }
+    .contact_left h2{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .contact_left img{
+        margin-left: 30px;
+        width: 250px;
+    }
+    .contact_right{
+        width: 380px;
+        margin-top: 40px;
+        margin-left: 10px;
+    }
+    .contact_right form input{
+        width: 280px;
+        height: 50px;
+        font-weight: 500;
+    }
+    .contact_right form p{
+        font-weight: 500;
+    }
+    .contact_right form p span{
+        display: none;
+    }
+    .contact_right form textarea{
+        width: 360px;
+        height: 230px;
+        font-weight: 500;
+    }
+    .footer_page{
+        height: 170px;
+        padding-top: 20px;
+    }
+    .links{
+        align-items: start;
+        width: 40%;
+        height: 120px;
+        flex-direction: column;
+        float: left;
+        margin-left: 10px;
+    }
+    .svg{
+        float: right;
+        width: 140px;
+        height: 140px;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        margin-top: -10px;
+    }
+
+}
+@media (max-width: 390px){
+    .projects_page{
+        height: 500px;
+    }
+    .project_img img{
+        width: 145px;
+    }
+    .contact_page{
+        height: 1040px;
+    }
+    .contact_left{
+        max-width: 300px;
+    }
+    .contact_right form textarea {
+        width: 290px;
+        height: 190px;
+    }
+}
